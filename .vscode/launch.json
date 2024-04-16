@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-OrderServicesApplication<OrderServices>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.MicroServicesproject.OrderServices.OrderServicesApplication",
+            "projectName": "OrderServices",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
