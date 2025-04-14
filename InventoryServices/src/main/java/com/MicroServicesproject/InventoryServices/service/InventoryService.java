@@ -7,7 +7,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 @Service
 @RequiredArgsConstructor
-public class InventoryService {
+public class  InventoryService {
 
     public final InventoryRepository inventoryRepository;
     @Transactional(readOnly = true)
